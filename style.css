@@ -16,13 +16,13 @@
   }
   
   body {
-    background-color: #f9d60e;
+    background-color: #c7a9e5;
     padding: 20px;
-    font-family: Arial;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
   
   .heading{
-    background-color: #373738;
+    background-color: #757575;
     color: #efeff2;
     padding: 1em;
   }
@@ -38,7 +38,7 @@
   }
   
   .content {
-    background-color: #272b30;
+    background-color: #757575;
     margin: 20px;
     padding: 10px;
     color: white;
@@ -52,16 +52,17 @@
     background-color: white;
     cursor: pointer;
     margin-right: 20px;
+    color: #757575;
   }
   
   nav {
-    background-color: #272b30;
+    background-color: #757575;
     padding: 10px;
     border-radius: 10px;
   }
   
   footer {
-    background-color: #272b30;
+    background-color: #757575;
     padding: 20px;
     color: white;
     text-align: center;
